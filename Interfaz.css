@@ -1,0 +1,49 @@
+body{
+    background-repeat: no-repeat ;
+    background-image: url("Cuidad.png");
+    background-attachment: fixed;
+    background-size: cover;
+}
+#Cantidad{
+    background-color: white;
+    position: absolute;
+    display: block;
+    top: 0px;
+    left: 400px;
+    height: 400px;
+    width: 400px;
+    font-size: 50px;
+    text-align: center;
+}
+#Gema{
+    position: absolute;
+    display: block;
+    top: 0px;
+    left: 0px;
+    height: 400px;
+    width: 400px;
+    font-size: 50px;
+    
+}
+#IYONE{
+    position: absolute;
+    display: block;
+    background-color: yellow;
+    top: 100px;
+    left: 5500px;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    font-size: 50px;
+}
+
+#Cielo{
+    position: absolute;
+    display: block;
+    background-color: yellow;
+    top: 0px;
+    left: 2500px;
+    height: 300px;
+    width: 300px;
+    font-size: 50px;
+}
